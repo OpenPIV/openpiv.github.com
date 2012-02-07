@@ -1,0 +1,54 @@
+
+/* ::::: http://openpiv.sourceforge.net/feed.css ::::: */
+
+body, td, div, p, a, font, span { font-family: arial,sans-serif; }
+body { margin-top: 2px; }
+.c { width: 4px; height: 4px; }
+.bubble { background-color: rgb(195, 217, 255); }
+.tl { padding: 0pt; width: 4px; text-align: left; vertical-align: top; }
+.tr { padding: 0pt; width: 4px; text-align: right; vertical-align: top; }
+.bl { padding: 0pt; width: 4px; text-align: left; vertical-align: bottom; }
+.br { padding: 0pt; width: 4px; text-align: right; vertical-align: bottom; }
+.caption { background: rgb(238, 238, 238) none repeat scroll 0% 0%; font-weight: bold; color: rgb(0, 0, 0); white-space: nowrap; margin-bottom: 5px; }
+.form-noindent { border: 1px solid rgb(195, 217, 255); background-color: rgb(255, 255, 255); }
+.footer { border-top: 1px solid rgb(255, 255, 255); border-bottom: 1px solid rgb(255, 255, 255); padding: 5px; background: rgb(229, 236, 249) none repeat scroll 0% 0%; font-size: 83%; text-align: center; font-family: arial,sans-serif; }
+.mhdr { border-top: 1px solid rgb(51, 102, 204); margin: 0px; padding: 0px; width: 100%; font-size: 82%; }
+.mttl { width: 90%; background-color: rgb(229, 236, 249); padding-left: 2px; font-weight: bold; padding-right: 5px; font-size: 122%; height: 23px; }
+.mttli { overflow: hidden; height: 1.2em; }
+.mc { width: 100%; padding-top: 4px; padding-bottom: 4px; font-size: 82%; }
+body, td, a, p, .h { font-family: arial,sans-serif; }
+a:link { color: rgb(0, 0, 204); }
+a:visited { color: rgb(85, 26, 139); }
+a:active { color: rgb(255, 0, 0); }
+.h { font-size: 20px; }
+.q { color: rgb(0, 0, 204); }
+.modbox, .modbox_e { padding-bottom: 20px; }
+.modbox .el {  }
+.modbox .csl, .modbox .es { display: none; }
+.modbox_e .el { display: none; }
+.modbox_e .csl, .modbox .es {  }
+.el, .csl { color: rgb(119, 119, 204); }
+.tlc { table-layout: fixed; cursor: pointer; }
+.tlc col { font-size: 82%; }
+.tlc td { font-size: 82%; empty-cells: show; }
+.tls { overflow: hidden; white-space: nowrap; }
+.tls a { text-decoration: none; color: black; }
+.tld { white-space: nowrap; text-align: right; width: 8ex; }
+.tlq { overflow: hidden; white-space: nowrap; }
+#c_1, #c_2, #c_3 { width: 32%; vertical-align: top; }
+.dm { width: 1px; height: 1px; }
+.mhdr { border-top: 1px solid rgb(51, 102, 204); margin: 0px; padding: 0px; width: 100%; font-size: 82%; }
+.mttl { width: 90%; background-color: rgb(229, 236, 249); padding-left: 2px; font-weight: bold; padding-right: 5px; font-size: 122%; }
+.mttli { overflow: hidden; height: 1.2em; }
+.mdel { border: 0pt none ; width: 16px; height: 13px; margin-top: 2px; vertical-align: top; }
+.mc { width: 100%; padding-top: 4px; padding-bottom: 4px; font-size: 82%; }
+.mpromo { border: 1px solid rgb(51, 102, 204); padding: 5px; text-align: center; margin-bottom: 20px; background-color: rgb(229, 236, 249); }
+.apromo, .cpromo { border: 1px solid rgb(51, 102, 204); padding: 2px 5px; background-color: rgb(229, 236, 249); white-space: nowrap; cursor: pointer; font-size: 82%; text-decoration: underline; color: rgb(0, 0, 204); }
+.apromo { float: left; }
+.cpromo { margin: -1px -2px 0pt 0pt; float: right; }
+.fres { overflow: hidden; }
+form { display: inline; }
+.c { clear: both; }
+a.ab { color: rgb(0, 0, 204); }
+.a, .a:link { color: rgb(0, 128, 0); }
+.bt, .bt:link, .bt:visited, .bt:active { color: rgb(255, 255, 255); text-decoration: none; }

@@ -1,0 +1,126 @@
+
+/* ::::: http://openpiv.sourceforge.net/1_009.css ::::: */
+
+body { margin: 0px; padding: 0px; background: rgb(34, 34, 34) url('bodybg.png') repeat-x fixed center top; text-align: center; font-family: Verdana,Arial,Helvetica,sans-serif; font-style: normal; font-variant: normal; font-weight: normal; font-size: 11px; line-height: normal; font-size-adjust: none; font-stretch: normal; }
+#container { margin: auto; width: 700px; padding-bottom: 20px; }
+h1, h2, h3, h4, h5, h6 { margin: 10px 0px 0px; font-family: Georgia,Verdana,Arial,Helvetica,sans-serif; font-weight: lighter; color: rgb(34, 34, 34); }
+h1 { font-size: 28px; }
+h2 { font-size: 25px; color: rgb(10, 41, 79); }
+h3 { font-size: 22px; color: rgb(32, 47, 15); }
+h4 { font-size: 18px; color: rgb(145, 19, 34); }
+h5 { font-size: 16px; color: rgb(175, 61, 10); }
+h6 { font-size: 11px; font-weight: bold; color: rgb(34, 34, 34); }
+del { color: rgb(153, 153, 153); }
+acronym { border: medium none ; background: transparent url('dottedborder_dark.gif') repeat-x scroll center bottom; padding-bottom: 1px; cursor: help; }
+hr { border: 0pt none ; margin: 2px 0px 5px; width: 100%; height: 1px; color: rgb(119, 119, 119); background-color: rgb(119, 119, 119); }
+a { color: rgb(175, 38, 57); text-decoration: none; }
+a:hover { text-decoration: underline; }
+p { margin: 5px 0px 15px; line-height: 22px; }
+.noborder { border: 0pt none ; }
+#content .pre { font-family: "Courier New",Courier,sans-serif; font-style: normal; font-variant: normal; font-weight: normal; font-size: 11px; line-height: normal; font-size-adjust: none; font-stretch: normal; color: rgb(175, 69, 74); }
+img { border: medium none ; }
+img.floatright, img.floatleft, #left img { border: 1px solid rgb(34, 34, 34); }
+a:hover img.floatright, a:hover img.floatleft, #left a:hover img { border: 1px solid rgb(175, 38, 57); }
+.floatleft { float: left; }
+.floatright { float: right; }
+.w50 { width: 50%; }
+.floatleft p { padding: 0px 10px 0px 0px; }
+.floatright p { padding: 0px 0px 0px 10px; }
+img.floatleft { margin: 15px 15px 5px 0px; }
+img.floatright { margin: 15px 0px 5px 15px; }
+.tl { background: rgb(34, 34, 34) url('tl.gif') no-repeat scroll left top; }
+.tr { background: transparent url('tr.gif') no-repeat scroll right top; }
+.br { background: transparent url('br.gif') no-repeat scroll right bottom; }
+.bl { background: transparent url('bl.gif') no-repeat scroll left bottom; }
+.ltl { background: rgb(239, 239, 239) url('l_tl.gif') no-repeat scroll left top; }
+.ltr { background: transparent url('l_tr.gif') no-repeat scroll right top; }
+.lbr { background: transparent url('l_br.gif') no-repeat scroll right bottom; }
+.lbl { background: transparent url('l_bl.gif') no-repeat scroll left bottom; }
+blockquote { margin: 10px auto; background: transparent url('quote.gif') no-repeat scroll 10px 10px; min-height: 35px; width: 100%; display: block; }
+* html blockquote { min-height: 35px; height: auto ! important; }
+blockquote p { margin: 0px; padding: 10px 10px 10px 50px; line-height: 17px; }
+blockquote span { color: rgb(153, 153, 153); font-size: 9px; padding-top: 5px; display: block; }
+blockquote span a { color: rgb(85, 85, 85); text-decoration: none; }
+blockquote span a:hover { text-decoration: underline; }
+blockquote.go { background: transparent url('go.gif') no-repeat scroll 10px 50%; }
+blockquote.stop { background: transparent url('stop.gif') no-repeat scroll 11px 50%; }
+blockquote.exclamation { background: transparent url('exclamation.gif') no-repeat scroll 23px 50%; }
+code { margin: 0px auto 15px; display: block; width: 92%; line-height: 17px; }
+code .red { color: rgb(175, 69, 74); }
+form select, form input, form textarea { border: 1px solid rgb(136, 136, 136); font-family: Verdana,Arial,Helvetica,sans-serif; font-style: normal; font-variant: normal; font-weight: normal; font-size: 11px; line-height: normal; font-size-adjust: none; font-stretch: normal; }
+form input:hover, form input:focus, form textarea:hover, form textarea:focus, form select:hover, form select:focus { border: 1px solid rgb(68, 68, 68); background-color: rgb(249, 249, 249); }
+form select { padding: 1px; }
+form input { padding: 1px; }
+form label { display: block; color: rgb(119, 119, 119); }
+form textarea { padding: 1px; line-height: 16px; }
+form p { margin: 10px 0px; }
+#top { background: transparent url('contentbg.gif') repeat-y scroll center top; }
+#bottom { background: transparent url('container_b.gif') no-repeat scroll center bottom; height: 9px; }
+* html #bottom { margin-top: -4px; }
+#header { margin: auto; background: transparent url('2454646.png') no-repeat scroll center top; font-family: Georgia,Verdana,Arial,Helvetica,sans-serif; font-style: normal; font-variant: normal; font-weight: normal; font-size: 30px; line-height: normal; font-size-adjust: none; font-stretch: normal; width: 680px; height: 175px; text-align: left; }
+#title { margin-top: 130px; margin-left: 13px; position: absolute; color: rgb(255, 255, 255); background-color: transparent; cursor: default; }
+.nav { margin: auto; height: 40px; background-color: rgb(34, 34, 34); color: rgb(255, 255, 255); width: 680px; text-align: left; font-size: 11px; cursor: default; }
+.nav2 { height: 40px; }
+#slogan { margin: 11px 0px 0px 15px; position: absolute; font-size: 14px; }
+#navdiv { text-align: right; }
+#navlist { margin: 0px; padding: 13px 8px 0px 0px; list-style-type: none; }
+#navlist li { display: inline; }
+#navlist li a { padding: 8px 6px 9px; color: rgb(255, 255, 255); font-weight: bold; text-decoration: none; height: 40px; }
+#navlist li a:hover { color: rgb(191, 191, 191); }
+#content { margin: auto; min-height: 400px; width: 680px; color: rgb(34, 34, 34); text-align: left; }
+* html #content { min-height: 400px; height: auto ! important; }
+#left { padding: 10px 10px 20px; float: left; width: 660px; }
+* html #left { padding-top: 20px; }
+#right { padding: 20px 10px 20px 20px; width: 190px; float: right; }
+* html #right { padding-top: 30px; }
+#right .sideitem { margin-bottom: 25px; }
+#right .sideitem h4 { background: rgb(255, 255, 255) url('dottedborder.gif') repeat-x scroll center bottom; font-family: Georgia,Arial,Helvetica,sans-serif; font-style: normal; font-variant: normal; font-size: 12px; line-height: normal; font-size-adjust: none; font-stretch: normal; font-weight: bold; color: rgb(34, 34, 34); width: 100%; padding-bottom: 3px; margin-bottom: 13px; }
+#right .sideitem b {  }
+#right .sideitem p { padding: 0px 5px; }
+#right .sideitem ul { margin-left: -4px; }
+.footer { margin: auto; height: 30px; width: 680px; color: rgb(255, 255, 255); text-align: left; clear: both; }
+.footer div { height: 30px; }
+#copyright { padding: 8px; text-align: left; float: left; margin-top: 0px ! important; margin-bottom: -16px; }
+#designcredit { padding: 8px; float: right; text-align: right; margin-bottom: -16px; }
+#designcredit a { color: rgb(159, 159, 159); }
+#designcredit a:hover { color: rgb(207, 38, 45); text-decoration: none; }
+.blog-body {  }
+.blog-sidebar-separator { padding: 0pt 10px; }
+#blog-title { padding-top: 10px; font-size: 15px; line-height: 20px; font-weight: normal; font-family: 'Lucida Grande','Lucida Sans Unicode',Verdana,Sans-Serif; }
+#blog-title a { text-decoration: none; }
+#blog-title a:hover { border: medium none ; color: rgb(102, 136, 255); }
+#blog-date { float: left; padding-left: 0px; font-size: 13px; }
+#blog-content { text-align: justify; clear: both; margin-bottom: 15px; }
+#blog-content ul { padding: 25px; }
+#blog-separator { border-bottom: 1px solid rgb(221, 221, 221); clear: both; padding-top: 2px; margin-top: 0px; font-size: 2px; height: 2px; }
+#blog-author { border-bottom: 1px solid rgb(249, 249, 249); margin: 0px 0pt 2px; padding: 0px 5px 2px; background: rgb(251, 251, 251) none repeat scroll 0% 0%; float: right; }
+#blog-comments { margin: 0pt; float: right; font-size: 13px; }
+#blog-post-title { border: 1px solid rgb(204, 204, 204); padding: 4px 0pt; width: 100%; display: block; font-size: 15px; font-weight: normal; font-family: 'Lucida Grande','Lucida Sans Unicode',Verdana,Sans-Serif; }
+.blog-sidebar { width: 215px; }
+.column-blog { margin: 0pt; padding: 0pt; float: right; width: 200px; }
+#weeblyform { line-height: 16px; }
+#weeblyform textarea { border: 1px solid rgb(171, 173, 179); padding: 2px; background: rgb(255, 255, 255) none repeat scroll 0% 0%; font-family: "Lucida Grande",Tahoma,Arial,sans-serif; font-size: 13px; color: rgb(0, 0, 0); line-height: 1.2em; height: 140px; width: 300px; }
+#weeblyform .formfield { margin: 5px 0px; }
+#weeblyform label.field { font-family: "Lucida Grande",Tahoma,Arial,sans-serif; font-size: 13px; display: block; font-weight: bold; padding-bottom: 2px; }
+#weeblyform input.text { border: 1px solid rgb(171, 173, 179); padding: 3px 2px; background: rgb(255, 255, 255) none repeat scroll 0% 0%; font-family: "Lucida Grande",Tahoma,Arial,sans-serif; width: 175px; color: rgb(0, 0, 0); font-size: 13px; }
+#weeblyform input.button { margin: 0pt; padding: 1px; }
+#commentAreaTitle { margin: 10px 0pt 20px; padding: 0px; }
+#commentArea .blogCommentWrap .blogCommentDate p, #commentArea .blogCommentWrap .blogCommentAuthor p { margin: 0pt; padding: 0pt; }
+#commentArea .blogCommentWrap .blogCommentDate p { padding-bottom: 15px; }
+#commentArea .blogCommentWrap .blogCommentText p { margin: 0pt; padding: 0pt; }
+.blogCommentAuthor { background: transparent url('commenticon.gif') no-repeat scroll left center; padding-left: 15px; float: left; display: block; font-weight: bold; }
+.blogCommentDate { display: block; text-align: right; float: right; font-style: italic; }
+.blogCommentText { overflow: hidden; clear: both; }
+p.blogCommentText { margin: 0px; padding: 0px; }
+.blogCommentBorder { display: none; }
+.blogCommentWrap { border-bottom: 1px dotted rgb(204, 204, 204); margin-top: 15px; padding-bottom: 15px; }
+#commentPostArea { font-family: arial,verdana,helvetica,sans-serif; font-size: 12px; }
+#lightbox { border-right: 2px solid rgb(102, 102, 102); border-bottom: 2px solid rgb(102, 102, 102); padding: 10px; background-color: rgb(238, 238, 238); }
+#lightboxDetails { font-size: 14px; padding-top: 0.4em; }
+#lightboxCaption { float: left; }
+#keyboardMsg { float: right; }
+#keyboardMsg a { text-decoration: none; font-size: 0.8em; color: rgb(85, 85, 85); font-family: verdana; }
+#lightbox img { border: medium none ; }
+#overlay img { border: medium none ; }
+#overlay { background: rgb(0, 0, 0) none repeat scroll 0% 0%; opacity: 0.7; }
+#closeButton { border-left: 5px solid white ! important; top: 10px; right: 10px; }
