@@ -57,7 +57,7 @@ form p { margin: 10px 0px; }
 #top { background: transparent url('contentbg.gif') repeat-y scroll center top; }
 #bottom { background: transparent url('container_b.gif') no-repeat scroll center bottom; height: 9px; }
 * html #bottom { margin-top: -4px; }
-#header { margin: auto; background: transparent url('2454646.png') no-repeat scroll center top; font-family: Georgia,Verdana,Arial,Helvetica,sans-serif; font-style: normal; font-variant: normal; font-weight: normal; font-size: 30px; line-height: normal; font-size-adjust: none; font-stretch: normal; width: 680px; height: 175px; text-align: left; }
+#header { margin: auto; background: transparent url('new_openpiv_logo.jpg') no-repeat scroll center top; font-family: Georgia,Verdana,Arial,Helvetica,sans-serif; font-style: normal; font-variant: normal; font-weight: normal; font-size: 30px; line-height: normal; font-size-adjust: none; font-stretch: normal; width: 680px; height: 175px; text-align: left; }
 #title { margin-top: 130px; margin-left: 13px; position: absolute; color: rgb(255, 255, 255); background-color: transparent; cursor: default; }
 .nav { margin: auto; height: 40px; background-color: rgb(34, 34, 34); color: rgb(255, 255, 255); width: 680px; text-align: left; font-size: 11px; cursor: default; }
 .nav2 { height: 40px; }
