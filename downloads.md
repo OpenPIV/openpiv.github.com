@@ -9,7 +9,7 @@ title: Download the latest version
 : <https://github.com/OpenPIV/openpiv-matlab>
 
 		
-* Python version, command-line, Cython optimised for speed, documented on [openpiv-python] 
+* Python version, command-line, documented on [openpiv-python] 
 : <https://github.com/OpenPIV/openpiv-python>
 		
 * C++ with Qt frontend, fast, GUI, documented
