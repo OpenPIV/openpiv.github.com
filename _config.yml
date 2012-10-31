@@ -1,0 +1,9 @@
+auto: false
+server: false
+lsi: false
+markdown: kramdown
+pygments: true
+permalink: /:year/:month/:day/:title
+paginate: 10
+title: OpenPIV - open source particle image velocimetry
+url: http://www.openpiv.net
