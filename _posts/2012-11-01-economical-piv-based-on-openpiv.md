@@ -1,6 +1,5 @@
 ---
-layout: default
-published: false
+layout: post
 ---
 
 #### Economical PIV means very reasonable price for very reasonable quality
