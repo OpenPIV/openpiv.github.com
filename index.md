@@ -4,7 +4,7 @@ layout: default
 title: OpenPIV project
 ---
 
-## Welcome to OpenPIV project
+## Welcome to the OpenPIV project
 
 ![](/images/openpiv_header.png)
 
