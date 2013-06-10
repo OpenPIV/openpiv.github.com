@@ -8,7 +8,7 @@ title: OpenPIV project
 
 ![](/images/openpiv_header.png)
 
-<a href="https://plus.google.com/109825446414710739212" rel="publisher">Google+</a>
+[Google+](https://plus.google.com/109825446414710739212)
 
 **OpenPIV** is an initiative of scientists to develop a software, algorithms and methods for the state-of-the-art experimental tool of Particle Image Velocimetry (PIV) which are free, open source, and easy to operate.
 
