@@ -1,13 +1,13 @@
 ---
+published: true
 layout: default
 title: OpenPIV project
 ---
 
-
 ## Welcome to OpenPIV project
 
 ![](/images/openpiv_header.png)
-
+<a href="https://plus.google.com/109825446414710739212" rel="publisher">Google+</a>
 
 **OpenPIV** is an initiative of scientists to develop a software, algorithms and methods for the state-of-the-art experimental tool of Particle Image Velocimetry (PIV) which are free, open source, and easy to operate.
 
@@ -31,4 +31,3 @@ title: OpenPIV project
 
 [Matlab]: http://www.openpiv.net/openpiv-matlab/
 [Python]: http://www.openpiv.net/openpiv-python/
-
