@@ -1,7 +1,6 @@
 auto: false
 server: false
 lsi: false
-markdown: redcarpet
 pygments: true
 permalink: /:year/:month/:day/:title
 paginate: 10
