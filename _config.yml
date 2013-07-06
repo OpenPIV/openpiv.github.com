@@ -2,6 +2,7 @@ auto: false
 server: false
 lsi: false
 pygments: true
+markdown: redcarpet
 permalink: /:year/:month/:day/:title
 paginate: 10
 title: OpenPIV - open source particle image velocimetry
