@@ -22,8 +22,7 @@ Taylor, Z.J.; Gurka, R.; Kopp, G.A.; Liberzon, A.; , "Long-Duration Time-Resolve
 
 ### Contact us
 
-Write us to <openpiv2008@gmail.com> 
-or use the <http://github.com/openpiv> services for the bugs reports, discussions and comments. 
+Write us to <openpiv2008@gmail.com>, to our mailing list [openpiv-developers@googlegroups.com](openpiv-developers@googlegroups.com) for developers private use only or use the <http://github.com/openpiv> services for the bugs,  issues, discussions and comments. 
 
 
 [Uri Shavit]: http://www.technion.ac.il/technion/agr/members/shavit/Page1.htm
