@@ -25,8 +25,8 @@ URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5464317&isnumber=56
 
 ### Support and documentation  
 How to get support? Where to ask questions? Use one of the following:  
-1. Mailing list <openpiv-users@googlegroups.com> 
-2. e-mail to <openpiv2008@gmail.com>  
+1. Mailing list <openpiv-users@googlegroups.com>  
+2. e-mail to <openpiv2008@gmail.com>    
 3. Commenting or raising issues using Github
 
 ### Frequently asked questions  
