@@ -3,3 +3,4 @@ markdown: redcarpet
 permalink: /:year/:month/:day/:title
 title: OpenPIV - Open Source Particle Image Velocimetry
 url: http://www.openpiv.net
+baseurl: http://www.openpiv.net 
