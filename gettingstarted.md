@@ -4,8 +4,18 @@ title: Getting started
 ---
 
 
-### How to download the software 
-Use <http://www.openpiv.net/downloads.html> for the shortcuts to the zipped software packages or obtain the source code from <http://github.com/openpiv>
+### Using the OpenPIV out-of-the-box on the online Wakari environment
+
+
+No installation is required. Just use this link - open a new account on Wakari.io and you'll have the tutorial in your browser using IPython notebook, based on Numpy/SciPy/Matplotlib/ and our OpenPIV library. 
+
+<https://www.wakari.io/sharing/bundle/openpiv/openpiv-python_tutorial>
+
+
+
+### Download and install locally
+
+If the online solution on Wakari is not convenient, download the software using the <http://www.openpiv.net/downloads.html> or using the source code cloning from Github.
 
 
 ### Getting started screencasts and tutorials
