@@ -5,11 +5,34 @@ title: Frequently Asked Questions about OpenPIV parameters
 ## Frequently Asked Questions about OpenPIV parameters
 
 
-This is a compilation of our e-mail replies on Frequently Asked Questions of our URAPIV and PyPIV users
 
-From: urapiv@gmail.com URAPIV group
+### What is the development plan? 
 
-Subject: Re: some queries in the program
+The plan is:
+
+
+
+1. The algorithms, e.g. FFTW based cross-correlate from C++ 
+https://github.com/OpenPIV/openpiv-c--qt/blob/master/src/fftcrosscorrelate.cpp
+to create Cython (http://docs.cython.org/src/userguide/wrapping_CPlusPlus.html) thin layer to allow their use from Python, like we already have in C: 
+https://github.com/OpenPIV/openpiv-python/blob/master/openpiv/src/process.pyx
+
+2. From C++ Qt-based user interface create a clone for the Python version. We started but stopped, cloning the 
+https://github.com/OpenPIV/openpiv-c--qt/tree/master/ui into https://github.com/OpenPIV/openpiv-python/tree/master/openpiv/ui
+
+
+### How to join the development team? 
+
+1. Write us an e-mail
+2. Fork the openpiv-python https://github.com/OpenPIV/openpiv-python 
+3. Add or edit the core algorithms, user interface (using Qt) or post-processing routines and send us the patch or pull requests
+
+
+
+### What are the various parameters used in OpenPIV? 
+
+See the discussion below. 
+
 
 : Hello,
 :
