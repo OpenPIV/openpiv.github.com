@@ -35,5 +35,5 @@ Download the latest versions from the [Github repositories](http://github.com/op
 
 
 [openpiv-matlab]: http://www.openpiv.net/openpiv-matlab
-[openpiv-python]: http://www.openpiv.net/openpiv-python
+[openpiv-python]: http://openpiv.readthedocs.org/
 [openpiv-pressure]: http://www.openpiv.net/openpiv-pressure
