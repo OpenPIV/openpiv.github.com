@@ -8,7 +8,7 @@ title: <img src="images/openpiv_arrow.png" class="img-responsive" alt="OpenPIV">
 
 <div class="jumbotron">
 <p>
-	<strong>OpenPIV</strong> is the community driven initiative to develop the free and open-source algorithms and methods for Particle Image Velocimetry (PIV) image analyiss and post-processing.
+	<strong>OpenPIV</strong> is the community driven initiative to develop free and open-source software for Particle Image Velocimetry (PIV) image analyiss and post-processing.
 </p>
 </div>
 
