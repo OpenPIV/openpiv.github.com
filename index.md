@@ -1,21 +1,20 @@
 ---
 published: true
 layout: default
-title: OpenPIV project
+title: <img src="images/openpiv_arrow.png" class="img-responsive" alt="OpenPIV"> 
 ---
 
-## Welcome to the OpenPIV project
-
-![](/images/openpiv_header.png)
 
 
+<div class="jumbotron">
+<p>
+	<strong>OpenPIV</strong> is the community driven initiative to develop the free and open-source algorithms and methods for Particle Image Velocimetry (PIV) image analyiss and post-processing.
+</p>
+</div>
 
-**OpenPIV** is an initiative of scientists to develop a software, algorithms and methods for the state-of-the-art experimental tool of Particle Image Velocimetry (PIV) which are free, open source, and easy to operate.
+**OpenPIV** is the successor of the popular URAPIV software, but it is faster, more user-friendly and much more flexible.
 
-
-**OpenPIV** is the successor of the well known URAPIV software - it is faster, more friendly and much more flexible.
-
-**OpenPIV** is provided in three versions: [Matlab], [Python] and C++ with Qt.
+**OpenPIV** exists in three versions: [Matlab], [Python]  and C++ with Qt-based GUI.
 
 
 **OpenPIV** is not only the PIV image analysis software. It is a fully integrated solution *from an experiment to a publication*. We provide an integrated **Matlab toolbox for Spatial and Temporal PIV data analysis** that provides time and spatial analysis, e.g. velocity profiles, spatial correlations, FFT, contours of vorticity, etc. 
