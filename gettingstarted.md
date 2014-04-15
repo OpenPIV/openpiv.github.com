@@ -22,9 +22,9 @@ If the online solution on Wakari is not convenient, download the software using 
 
 1. Matlab - see the screencast http://youtu.be/yg-LjAt-v3Q or read the tutorial by <a href="mailto:Sergio.Bengoechea.Lozano@tnt.TU-Berlin.DE"> Sergio Bengoechea Lozano, TU Berlin </a>
 [[https://github.com/OpenPIV/openpiv.github.com/wiki/Tutorial_OpenPIV.pdf]]
-2. Python - http://www.openpiv.net/openpiv-python/
+2. Python - <http://www.openpiv.net/openpiv-python/>
 3. C++ - not ready yet
-4. Spatial and Temporal Analysis Toolbox http://www.openpiv.net/openpiv-spatial-analysis-toolbox/
+4. Spatial and Temporal Analysis Toolbox <http://www.openpiv.net/openpiv-spatial-analysis-toolbox/>
 
 
 ### Support and documentation
