@@ -29,7 +29,7 @@ Download the latest versions from the [Github repositories](http://github.com/op
 * Source code : <https://github.com/OpenPIV/openpiv-spatial-analysis-toolbox>
 * Documentation: <http://www.openpiv.net/openpiv-spatial-analysis-toolbox/PIV%20Analysis%20software.htm>
 
-### Estimate ** from PIV
+### Estimate pressure from PIV
 * Documentation:[openpiv-pressure]
 * Source code on: <https://github.com/OpenPIV/openpiv-pressure>
 
