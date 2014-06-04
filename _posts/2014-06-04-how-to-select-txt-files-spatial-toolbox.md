@@ -18,4 +18,4 @@ in the left top corner select ```*.txt``` and in the right to it field enter:
 and you'll get in the selection window only the ```.txt``` files. 
 
 
-<img src="https://dl.dropboxusercontent.com/u/5266698/openpiv-spatialbox-regular-expression.png">
+<img src="https://dl.dropboxusercontent.com/u/5266698/openpiv-spatialbox-regular-expression.png" width="300">
