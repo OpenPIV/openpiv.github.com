@@ -9,6 +9,7 @@ Download the latest versions from the [Github repositories](http://github.com/op
 ## Particle Image Velocimetry 
 
 ### Python version (command-line, GUI is under development)
+* PyPi project: <https://pypi.python.org/pypi/OpenPIV>
 * Source code : <https://github.com/OpenPIV/openpiv-python>
 * Documentation:  [openpiv-python] 
 
