@@ -10,6 +10,6 @@ boundary layers. It has been used since to reveal the underlying structure in je
 It has been successfully applied to the DNS and LES data. See the publications of Roi Gurka, Alex Liberzon and others for the references. 
 
 
-POD is another name for Principal Component Analysis (PCA), see Wikipedia for the details: http://en.wikipedia.org/wiki/Principal_component_analysis
+POD is another name for Principal Component Analysis (PCA), see Wikipedia for the details: <http://en.wikipedia.org/wiki/Principal_component_analysis>
 
-Publication that has to be cited: http://www.sciencedirect.com/science/article/pii/S0142727X06000026
+Publication that has to be cited: <http://www.sciencedirect.com/science/article/pii/S0142727X06000026> 
