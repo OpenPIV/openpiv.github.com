@@ -35,6 +35,10 @@ Download the latest versions from the [Github repositories](http://github.com/op
 * Source code on: <https://github.com/OpenPIV/openpiv-pressure>
 
 
+### Proper Orthogonal Decomposition (POD) Toolbox
+* Source code : <https://github.com/OpenPIV/openpiv-podbox>
+* Documentation: in preparation
+
 [openpiv-matlab]: http://www.openpiv.net/openpiv-matlab
 [openpiv-python]: http://openpiv.readthedocs.org/
 [openpiv-pressure]: http://www.openpiv.net/openpiv-pressure
