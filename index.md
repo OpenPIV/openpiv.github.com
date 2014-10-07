@@ -17,7 +17,7 @@ title: <img src="images/openpiv_arrow.png" class="img-responsive" alt="OpenPIV">
 **OpenPIV** exists in three versions: [Matlab], [Python]  and C++ with Qt-based GUI.
 
 
-**OpenPIV** is not only the PIV image analysis software. It is a fully integrated solution *from an experiment to a publication*. We provide an integrated **Matlab toolbox for Spatial and Temporal PIV data analysis** that provides time and spatial analysis, e.g. velocity profiles, spatial correlations, FFT, contours of vorticity, etc. Moreover, we provide the insightful Proper Orthogonal Decomposition (POD) Toolbox that gives you a deep insight into the most energetic coherent structures and meaningful patterns of the flow.
+**OpenPIV** is not only the PIV image analysis software. It is a fully integrated solution *from an experiment to a publication*. We provide an integrated **Matlab toolbox for Spatial and Temporal PIV data analysis** that provides time and spatial analysis, e.g. velocity profiles, spatial correlations, FFT, contours of vorticity, etc. Moreover, we provide the insightful **Proper Orthogonal Decomposition (POD) Toolbox** that gives you a deep insight into the most energetic coherent structures and meaningful patterns of the flow.
 
 
 
