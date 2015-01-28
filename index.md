@@ -31,5 +31,5 @@ title: <img src="images/openpiv_arrow.png" class="img-responsive" alt="OpenPIV">
 
 <a href="https://plus.google.com/109825446414710739212" rel="publisher">Join us on Google+</a>
 
-[Matlab]: http://www.openpiv.net/openpiv-matlab/
+[Matlab]: https://github.com/OpenPIV/openpiv-matlab
 [Python]: http://www.openpiv.net/openpiv-python/
