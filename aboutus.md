@@ -36,7 +36,7 @@ URL: <http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5464317&isnumber=5
 
 ### Contact us
 
-Write us to <openpiv2008@gmail.com>, to our mailing list [openpiv-developers@googlegroups.com](openpiv-developers@googlegroups.com) for developers private use only or use the <http://github.com/openpiv> services for the bugs,  issues, discussions and comments. 
+Write us to <openpiv2008@gmail.com>, to our mailing list [openpiv-users@googlegroups.com](https://groups.google.com/forum/#!forum/openpiv-users) for developers private use only or use the <http://github.com/openpiv> services for the bugs,  issues, discussions and comments. 
 
 
 [Uri Shavit]: http://www.technion.ac.il/technion/agr/members/shavit/Page1.htm
