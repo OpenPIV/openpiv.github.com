@@ -24,10 +24,10 @@ The second major change is the output files. Because we now have two options of 
 Please, update the openpiv-matlab and openpiv-spatialbox to the newest versions, from Github
 
 
-https://github.com/OpenPIV/openpiv-matlab/archive/master.zip
+<https://github.com/OpenPIV/openpiv-matlab/archive/master.zip>
 
 and
 
-https://github.com/alexlib/openpiv-spatial-analysis-toolbox/archive/master.zip
+<https://github.com/alexlib/openpiv-spatial-analysis-toolbox/archive/master.zip>
 
-and read the tutorial (v 0.2)  https://github.com/OpenPIV/openpiv-matlab/blob/master/docs/Tutorial_OpenPIV/Tutorial_OpenPIV.pdf 
+and read the tutorial (v 0.2)  <https://github.com/OpenPIV/openpiv-matlab/blob/master/docs/Tutorial_OpenPIV/Tutorial_OpenPIV.pdf> 
