@@ -5,7 +5,7 @@ title: Snapshots
 
 #### Matlab version with GUI - PIV of granular material slugs in a circular pipe
 
-<img src="images/ScreenShot-2014-04-12.png" class="img-responsive" alt="Responsive image">
+<img src="images/output.png" class="img-responsive" alt="Responsive image">
 
 ----
 
