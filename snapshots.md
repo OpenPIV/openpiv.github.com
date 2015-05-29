@@ -3,20 +3,20 @@ layout: default
 title: Snapshots
 ---
 
-#### Matlab version with GUI - PIV of granular material slugs in a circular pipe
+#### New (0.02) Matlab version with GUI 
 
 <img src="images/output.png" class="img-responsive" alt="Responsive image">
 
 ----
 
-#### Matlab version with GUI - PIV of small scale vortices near a solid wall
+#### Previous Matlab version with GUI - PIV of small scale vortices near a solid wall
 
 <img src="images/2758623_orig.jpg" alt="Responsive image" class="img-responsive">
 
 ----
 
 
-#### Old GUI format for Matlab 6
+#### Older GUI format for Matlab 6
 <img src="images/7034055_orig.jpg" lass="img-responsive" alt="Responsive image">
 
 ---	
