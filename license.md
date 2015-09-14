@@ -3,7 +3,12 @@ layout: default
 title: OpenPIV GPLv3 license
 ---
 
-**OpenPIV** is released under **GNU GENERAL PUBLIC LICENSE** Version 3, 29 June 2007
+**OpenPIV** is released under several licenses. 
+
+
+### OpenPIV-Python
+
+**GNU GENERAL PUBLIC LICENSE** Version 3, 29 June 2007
 
 OpenPIV is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
@@ -17,3 +22,7 @@ GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License
 along with this program. If not, see <http://www.gnu.org/licenses/>.
+
+
+### OpenPIV-Matlab and other packages:
+See the respective source libraries. 
