@@ -40,6 +40,14 @@ Download the latest versions from the [Github repositories](http://github.com/op
 * Source code : <https://github.com/OpenPIV/openpiv-podbox>
 * Documentation: <https://github.com/OpenPIV/openpiv-podbox/tree/master/docs>
 
+### Background-Oriented Schlieren Toolbox
+* Introduction: <http://www.openpiv.net/bos/>
+* Source code : <https://github.com/OpenPIV/openpiv-bos>
+* Documentation: <http://www.openpiv.net/bos/html/BOS_CODE.html>
+* 
+
 [openpiv-matlab]: http://www.openpiv.net/openpiv-matlab
 [openpiv-python]: http://openpiv.readthedocs.org/
 [openpiv-pressure]: http://www.openpiv.net/openpiv-pressure
+
+
