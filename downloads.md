@@ -44,7 +44,6 @@ Download the latest versions from the [Github repositories](http://github.com/op
 * Introduction: <http://www.openpiv.net/bos/>
 * Source code : <https://github.com/OpenPIV/openpiv-bos>
 * Documentation: <http://www.openpiv.net/bos/html/BOS_CODE.html>
-* 
 
 [openpiv-matlab]: http://www.openpiv.net/openpiv-matlab
 [openpiv-python]: http://openpiv.readthedocs.org/
