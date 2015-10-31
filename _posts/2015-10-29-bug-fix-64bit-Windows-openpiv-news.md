@@ -16,10 +16,6 @@ flapping wings <http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.115.188
 We're proud to notice that this interesting work has been performed using OpenPIV. 
 
 
-Best regards
-Alex
-
-
 
 
 ------
