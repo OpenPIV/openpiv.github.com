@@ -23,7 +23,7 @@ We're proud to notice that this interesting work has been performed using OpenPI
 The instructions to use with Windows 8.1 64 bit machine with Anaconda 64 bit (Python 2.7). 
 
 1. install Microsoft compiler for Python 2.7
-a) following this page: https://github.com/cython/cython/wiki/CythonExtensionsOnWindows 
+a) following this page: <https://github.com/cython/cython/wiki/CythonExtensionsOnWindows> 
 Install Microsoft Visual C++ Compiler for Python just like before.
 
 Launch MSVC for Python command prompt
