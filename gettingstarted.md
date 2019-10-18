@@ -4,19 +4,24 @@ title: Getting started
 ---
 
 
-### Using the OpenPIV out-of-the-box on the Google Collaboratory
-
+### Run OpenPIV online
+Use Google Colab project and import one of the OpenPIV Python notebooks
 
 https://colab.research.google.com/notebook#create=true&language=python3
 
+Or click the `launch binder` button to get a fully running cloud for you thanks to Jupyter and Mybinder
 
-
+https://github.com/alexlib/openpiv-python-example
 
 
 ### Download and install locally
 
-If the online solution on Wakari is not convenient, download the software using the <http://www.openpiv.net/downloads.html> or using the source code cloning from Github.
+Download the software using the <http://www.openpiv.net/downloads.html> or using the source code cloning from Github, for instance
 
+	git clone https://github.com/openpiv/openpiv-python
+	git clone https://github.com/openpiv/openpiv-matlab
+	
+	
 
 ### Getting started screencasts and tutorials
 
