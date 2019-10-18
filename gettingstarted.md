@@ -29,9 +29,9 @@ If the online solution on Wakari is not convenient, download the software using 
 
 ### Support and documentation
 How to get support? Where to ask questions? Use one of the following:
-1. Use our mailing list [openpiv-users@googlegroups.com](mailto:openpiv-users@googlegroups.com)
+1. Use our mailing list https://groups.google.com/forum/?hl=en#!forum/openpiv-users
 2. E-mail to [openpiv2008@gmail.com](openpiv2008@gmail.com)
-3. Comment on the Github repository or open an issue on Github
+3. Comment on the Github repository or open an issue on Github, for instance https://github.com/OpenPIV/openpiv-python/issues
 
 
 ### How do we help our users
