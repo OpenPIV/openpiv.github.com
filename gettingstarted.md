@@ -4,12 +4,12 @@ title: Getting started
 ---
 
 
-### Using the OpenPIV out-of-the-box on the online Wakari environment
+### Using the OpenPIV out-of-the-box on the Google Collaboratory
 
 
-No installation is required. Just use this link - open a new account on Wakari.io and you'll have the tutorial in your browser using IPython notebook, based on Numpy/SciPy/Matplotlib/ and our OpenPIV library. 
+https://colab.research.google.com/notebook#create=true&language=python3
 
-<https://www.wakari.io/sharing/bundle/openpiv/openpiv-python_tutorial>
+
 
 
 
