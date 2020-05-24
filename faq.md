@@ -24,26 +24,11 @@ OpenPIV is good for analysing your PIV images, acquired with frame-straddle or c
 Not at all if you do educational oriented or scientific work. If it is for commercial purposes, please note that we use free Qt license and therefore your derivative cannot be delivered as a commercial software. 
 
 
-### How to cite this work 
+### How to cite this work
 
-**Taylor, Z.J.; Gurka, R.; Kopp, G.A.; Liberzon, A.** , *Long-Duration Time-Resolved PIV to Study Unsteady Aerodynamics*, Instrumentation and Measurement, IEEE Transactions on , vol.59, no.12, pp.3262-3269, Dec. 2010  
-doi: `10.1109/TIM.2010.2047149`  
-URL: <http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5464317&isnumber=5609237>  
-
-		@article{
-		        author={Taylor,Z. J. and Gurka,R. and Kopp,G. A. and Liberzon,A.},
-		        year={2010},
-		        title={Long-duration time-resolved PIV to study unsteady aerodynamics},
-		        journal={IEEE Transactions on Instrumentation and Measurement},
-		        volume={59},
-		        number={12},
-		        pages={3262-3269}
-		    }
+Please see the Readme files in every package - OpenPIV - Matlab, Python, C++ and the toolboxes were created at different times and by different teams. 
 
  
-
-
-
 ### What are the parameters used in OpenPIV 
 
 #### Scaling:
