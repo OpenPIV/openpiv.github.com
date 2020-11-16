@@ -3,8 +3,10 @@ layout: default
 title: Getting started
 ---
 
+# How to get started with OpenPIV:
 
-### Run OpenPIV online
+### You can run OpenPIV online without installation:
+
 Use Google Colab project and import one of the OpenPIV Python notebooks
 
 https://colab.research.google.com/notebook#create=true&language=python3
@@ -14,22 +16,14 @@ Or click the `launch binder` button to get a fully running cloud for you thanks 
 https://github.com/alexlib/openpiv-python-example
 
 
-### Download and install locally
+### You can download and install it locally on Python 3, using `pip` or `conda`:
 
-Download the software using the <http://www.openpiv.net/downloads.html> or using the source code cloning from Github, for instance
-
-	git clone https://github.com/openpiv/openpiv-python
-	git clone https://github.com/openpiv/openpiv-matlab
-	
-	
+	pip install openpiv
+	pip install openpiv_tk_gui
 
 ### Getting started screencasts and tutorials
-
-1. Matlab - see the screencast http://youtu.be/yg-LjAt-v3Q or read the tutorial by <a href="mailto:Sergio.Bengoechea.Lozano@tnt.TU-Berlin.DE"> Sergio Bengoechea Lozano, TU Berlin </a>
-[[https://github.com/OpenPIV/openpiv.github.com/wiki/Tutorial_OpenPIV.pdf]]
-2. Python - <http://www.openpiv.net/openpiv-python/>
-3. C++ - not ready yet
-4. Spatial and Temporal Analysis Toolbox <http://www.openpiv.net/openpiv-spatial-analysis-toolbox/>
+1. Python - <http://www.openpiv.net/openpiv-python/>
+2. Documentation : https://openpiv.readthedocs.io/
 
 
 ### Support and documentation
@@ -49,10 +43,14 @@ We typically answer very quickly on our mailing list. Users that have difficulty
 	Any advice?`
 
 
-We usually suggest to have a Dropbox or FTP with a bunch of images (in this particular case it was very helpful to see more than just a first pair, because there is no motion in the first pair). 
+We usually suggest to have an example pair of your images. 
 
-We got a Dropbox share and the question about our Matlab GUI-based version. So instead of writing back, we shot this screenshot and send back to the user. **On the way to the next satisfied OpenPIV user :)**
 
-[Screenshot of Matlab GUI-based OpenPIV session](https://www.dropbox.com/s/ysyvl8oxw635pqg/Screen%20Recording%2011%20-%20Wi-Fi.m4v)
+
+#### Matlab related questions
+
+see the screencast http://youtu.be/yg-LjAt-v3Q or read the tutorial by <a href="mailto:Sergio.Bengoechea.Lozano@tnt.TU-Berlin.DE"> Sergio Bengoechea Lozano, TU Berlin </a>
+[[https://github.com/OpenPIV/openpiv.github.com/wiki/Tutorial_OpenPIV.pdf]]
+
 
 
