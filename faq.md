@@ -3,12 +3,15 @@ layout: default
 title: Frequently Asked Questions
 ---
 
+### What is Particle Image Velocimetry (PIV)
+It is optical method for fluid flow measurements. Read more on the Wikipedia https://en.wikipedia.org/wiki/Particle_image_velocimetry
+
 ### What is OpenPIV?
 
-OpenPIV is a user-friendly software for Particle Image Velocimetry. It incorporates modules written in Matlab, Python and C++ that allows to estimate the velocity fields from images of particles and post-process the fields to obtain important fluid dynamics quantities such as vorticity, rate-of-strain, dissipation and Reynolds stresses in the case of turbulent flows.
+OpenPIV is a user-friendly software for Particle Image Velocimetry. It contains software in Python, Matlab, and C++ that allows to estimate the velocity fields from images of particles and post-process the fields to obtain important fluid dynamics quantities such as vorticity, rate-of-strain, dissipation and Reynolds stresses in the case of turbulent flows. The main development focus now is on **Python** version. 
 
 
-OpenPIV was written in Matlab (tm) in 1998 and was extended using Python and C++ (with Qt4 user interface). OpenPIV is designed to be portable: it supposedly runs on UNIX, Mac and  PCs under Windows or Linux. 
+OpenPIV was originally written in Matlab (tm) in 1998 but switched to Python. OpenPIV is designed to be portable: it runs on all platforms, on mobiles, and on high performance clusters and on virtual machines. 
 
 
 ### Why OpenPIV was created? 
@@ -21,30 +24,30 @@ OpenPIV is good for analysing your PIV images, acquired with frame-straddle or c
 
  
 ### Are there copyright restrictions on the use of OpenPIV? 
-Not at all if you do educational oriented or scientific work. If it is for commercial purposes, please note that we use free Qt license and therefore your derivative cannot be delivered as a commercial software. 
+Read the LICENSE files in repositories, we use standard open source licenses. 
+
+### How to cite
+
+If you use the Python version, you can cite all versions by using the[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3930343.svg)](https://doi.org/10.5281/zenodo.3930343)
+
+If you use another package, please the Readme files in every package: Matlab, Python, C++ and the toolboxes were created at different times and by different teams. 
 
 
-### How to cite this work
-
-Please see the Readme files in every package - OpenPIV - Matlab, Python, C++ and the toolboxes were created at different times and by different teams. 
+---
+---
 
  
 ### What are the parameters used in OpenPIV 
 
-#### Scaling:
+#### Scaling or `sclt`
 
-		sclt
-
-
-This parameter converts the `pixel/dt` units into `m/sec` or `km/hr`. For example, if the time between the two consecutive image is `dt = 0.5` seconds and the magnification is such that `1 pixel` in the image corresponds to `50 cm`, then the value of `sclt` is estimated as:
+*Scaling* parameter converts the `pixel/dt` units into `meters/second` or other physical units. For example, if the time between the two consecutive image is `dt = 0.5` seconds and the magnification is such that `1 pixel` in the image corresponds to `50 cm`, then the value of `sclt` is estimated as:
 
 	sclt = 50 cm/pixels / 0.5 sec/dt = 100 [cm/seconds/pixels]
 
 For example, if a given displacement vector was esitmated to be `10 pixels`, then the velocity will be
 
 		100 * 10 = 1000 cm/s
-
-
 
 
 #### Whats the purpose of the local and global filtering?
@@ -57,9 +60,7 @@ For example, if a given displacement vector was esitmated to be `10 pixels`, the
 final (after filtering and interpolation) - **.txt**
 
 
-
-
-### Why, while taking the FFT, we use the `Nfft` parameter 
+### Why, while taking the FFT, we use larger windows that the interrogation windows:
 
 		ffta = fft2( a2, Nfft, Nfft );
 		fftb = fft2( b2, Nfft, Nfft );`
@@ -69,32 +70,23 @@ and why the size has been specified as `Nfft` which is *twice the interrogation 
 In the FFT-based correlation analysis, we have to pad the interrogation window with zeros and get correlation map of the right size and avoid aliasing problem (see Raffel et al. 2007)
 
 
-
 #### Also in the same function why sub image `b2` is rotated before taking the correlation
 
 		b2 = b2(end:-1:1,end:-1:1);
 
-Without rotation the result will be convolution, not correlation. The definition is 
+Without rotation the result will be convolution. The definition is 
 
 		ifft(fft(a)*fft(conj(b))) 
 
 so, the operation `conj()` is replaced by *rotation* which is identical **in the case of real values**. It is more computationally efficient.
 
 
-#### In the `find_displacement(c,s2nm)` function for finding `peak2`, why neighbourhood pixels around `peak1` are removed? 
+#### In the `find_displacement(c,s2nm)` function for finding `peak2`, why neighbourhood pixels around `peak1` are masked? 
 
 These peaks might appear as "false second peak"'", but they are the part 
 of the same peak. Think about a top of a mountain. You want to remove
 not only the single point, but cut out the top part in order to search 
 for the second peak.
-
-#### In the `read_pair _of_images()` function why
-
-			A = double(A(:,:,1))/255;           %line no:259
-			B = double(B(:,:,1))/255;`
-
-This is in order to convert RGB images (if such) to the gray scale images that are applicable for the PIV analyiss. 
-
 
 
 #### After the program is executed, the variable `vel` contains all the parameters for all the velocity vectors. Here what are the units of `u, v`. Is it in metres/second?
@@ -108,6 +100,6 @@ The outlier filter value is the threshold of the global outlier filter and is sa
 
 
 
-#### What is the fifth column in the Output data `*.txt`b,`*flt.txt` or `*noflt.txt`?
+#### What are the fifth and sixth columns in the data`*.txt`b,`*flt.txt` or `*noflt.txt`?
 
-The fifth column is the value of the `Signal-To-Noise` (`s2n`) ration. Note that the value is different (numerically) if the user choses `Peak-to-Second-Peak` ratio as the `s2n` parameter or `Peak-to-Mean` ratio as `s2n` parameter. The value of `Peak-to-Second-Peak` or `Peak-to-Mean` ratio is stored for the further processing. 
+The fifth column is the value of the `Signal-To-Noise` (`s2n`) ratio. The sixth column is a mask of invalid vectors. Note that the value is different (numerically) if the user choses `Peak-to-Second-Peak` ratio as the `s2n` parameter or `Peak-to-Mean` ratio as `s2n` parameter. The value of `Peak-to-Second-Peak` or `Peak-to-Mean` ratio is stored for the further processing. 
