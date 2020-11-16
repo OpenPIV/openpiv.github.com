@@ -16,7 +16,7 @@ title: <img src="images/openpiv_arrow.png" class="img-responsive" alt="OpenPIV">
 
 <div class="jumbotron">
 <p>
-**OpenPIV** exists in several languages and multipe versions, but the **main effort is devoted to the Python version of OpenPIV**
+OpenPIV exists since 1999 in several languages and multipe versions. The <strong> main effort is devoted to the Python version of OpenPIV</strong>
 </p>
 </div>
 	
