@@ -5,43 +5,42 @@ title: About us
 
 ## Contributors and developers
 
+This is a community effort and every step is a great contribution of one of the users that also care about promoting open source and open science. 
 
-### Main contributiors are:
+
+## Governance team:
+
+[Alex Liberzon]
+[Roi Gurka]
+[Peter Vennemann]
+[Theo Käufer]
+[Hadar Ben Gida]
+
+
+### Contributiors by projects:
 
 * Original URAPIV project (Matlab)- [Uri Shavit], [Roi Gurka] and [Alex Liberzon]
 * New OpenPIV project (Matlab + GUI) [Roi Gurka] and [Alex Liberzon]
 * OpenPIV Spatial Analysis Toolbox project (Matlab + GUI) [Roi Gurka] and [Alex Liberzon]
 * PyPIV project - [Alex Liberzon] and [Davide Lasagna] 
-* URAPIV-C++ project - [Zachary Taylor] and [Tim Dewhirst] 
-
-
-### How to cite this work 
-
-**Taylor, Z.J.; Gurka, R.; Kopp, G.A.; Liberzon, A.** , *Long-Duration Time-Resolved PIV to Study Unsteady Aerodynamics*, Instrumentation and Measurement, IEEE Transactions on , vol.59, no.12, pp.3262-3269, Dec. 2010  
-doi: `10.1109/TIM.2010.2047149`  
-URL: <http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5464317&isnumber=5609237>  
-
-		@article{
-		        author={Taylor,Z. J. and Gurka,R. and Kopp,G. A. and Liberzon,A.},
-		        year={2010},
-		        title={Long-duration time-resolved PIV to study unsteady aerodynamics},
-		        journal={IEEE Transactions on Instrumentation and Measurement},
-		        volume={59},
-		        number={12},
-		        pages={3262-3269}
-		    }
-
- 
+* URAPIV-C++ project - [Zachary Taylor] and [Tim Dewhirst]
+* Tk-GUI for the Python version [Peter Vennemann]
 
 
 ### Contact us
 
-Write us to <openpiv2008@gmail.com>, to our mailing list [openpiv-users@googlegroups.com](https://groups.google.com/forum/#!forum/openpiv-users) for developers private use only or use the <http://github.com/openpiv> services for the bugs,  issues, discussions and comments. 
+1. Write us to <openpiv2008@gmail.com>
+2. Join the community forum [openpiv-users@googlegroups.com](https://groups.google.com/forum/#!forum/openpiv-users) 
+3. Use Github issues and pull requests in one of the projects <http://github.com/openpiv>
 
 
-[Uri Shavit]: http://www.technion.ac.il/technion/agr/members/shavit/Page1.htm
-[Roi Gurka]: http://www.bgu.ac.il/~gurka/
-[Alex Liberzon]: http://www.eng.tau.ac.il/~alexlib
-[Zachary Taylor]: http://www.zacharyjtaylor.com/
-[Tim Dewhirst]: http://uk.linkedin.com/pub/tim-dewhirst/1/b20/140
-[Davide Lasagna]: http://github.com/gasagna
+
+[Uri Shavit]: https://www.technion.ac.il/technion/agr/members/shavit/Page1.htm
+[Roi Gurka]: https://www.bgu.ac.il/~gurka/
+[Alex Liberzon]: https://turbulencelab.eng.tau.ac.il
+[Zachary Taylor]: https://www.zacharyjtaylor.com/
+[Tim Dewhirst]: https://uk.linkedin.com/pub/tim-dewhirst/1/b20/140
+[Davide Lasagna]: https://github.com/gasagna
+[Peter Vennemann]: https://github.com/eguvep
+[Theo Käufer]: https://github.com/TKaeufer
+[Hadar Ben Gida]: https://github.com/bengida1989
