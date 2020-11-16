@@ -3,10 +3,6 @@ layout: default
 title: About us
 ---
 
-## Contributors and developers
-
-This is a community effort and every step is a great contribution of one of the users that also care about promoting open source and open science. 
-
 
 ## Governance team:
 
@@ -16,6 +12,10 @@ This is a community effort and every step is a great contribution of one of the 
 - [Theo Käufer]
 - [Hadar Ben Gida]
 
+
+## Contributors and developers
+
+This is a community effort and every step is a great contribution of one of the users that also care about promoting open source and open science. The list below is not listing all the names and all the contributions are important. Follow the readme for every project to see the list of the authors. 
 
 ### Contributiors by projects:
 
