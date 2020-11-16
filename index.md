@@ -21,12 +21,17 @@ OpenPIV exists since 1999 in several languages and multipe versions.
 From 2020 the  main effort is devoted to the <strong> Python version of OpenPIV </strong>
 </p>
 </div>
-	
-[Python](https://github.com/OpenPIV/openpiv-python). It can be used through a Python shell, as a script, as a Jupyter notebook or through a [GUI] (https://github.com/OpenPIV/openpiv_tk_gui). There are also additional extensions for the use of Python version on the cloud infrastructure, on a cluster [GPU accelerated version](https://github.com/OpenPIV/openpiv-python-gpu), PIV as a service and others. See all the links on the Software Packages page. 
+
+---
+## Python
+
+[Python](https://github.com/OpenPIV/openpiv-python). It can be used through a Python shell, as a script, as a Jupyter notebook or through a 
+[GUI](https://github.com/OpenPIV/openpiv_tk_gui). There are also additional extensions for the use of Python version on the cloud infrastructure, on a cluster [GPU accelerated version](https://github.com/OpenPIV/openpiv-python-gpu), PIV as a service and others. See all the links on the Software Packages page. 
 
 
 
 ----
+## Matlab
 
 Matlab version of OpenPIV **will not be developed after January 1st, 2021**. We plan to translate the code to **Python**. This update refers to a large set of toolboxes: 
 1. PIV processing in Matlab with a simple GUI, openpiv-matlab
