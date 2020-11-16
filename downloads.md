@@ -1,30 +1,25 @@
 ---
 layout: default
-title: Downloads 
+title: Software packages 
 ---
 
-Download the latest versions from the [Github repositories](http://github.com/openpiv):
+# Community development page
+
+[Github repositories](http://github.com/openpiv):
 
 
-## Particle Image Velocimetry 
+# Particle Image Velocimetry (PIV) with Python
 
-### Python version (command-line, GUI is under development)
 * PyPi project: <https://pypi.python.org/pypi/OpenPIV>
 * Source code : <https://github.com/OpenPIV/openpiv-python>
-* Documentation:  [openpiv-python] 
+* Tk-GUI : <https://github.com/openpiv/openpiv_tk_gui
+* Documentation:  [openpiv-python]
 
-### Matlab version with GUI 
+----
+
+### PIV with Matlab
 * Source code: <https://github.com/OpenPIV/openpiv-matlab>
 * Documentation:  [openpiv-matlab]
-		
-		
-### C++ with Qt frontend, very fast, GUI, 
-* documented using HTML inside the Qt GUI
-* source code : <https://github.com/OpenPIV/openpiv-c--qt>
-
------
-
-## Post-PIV processing
 		
 ### Spatial and Temporal Analysis Toolbox
 * Source code : <https://github.com/OpenPIV/openpiv-spatial-analysis-toolbox>
@@ -34,7 +29,6 @@ Download the latest versions from the [Github repositories](http://github.com/op
 ### Estimate pressure from PIV
 * Documentation:[openpiv-pressure]
 * Source code on: <https://github.com/OpenPIV/openpiv-pressure>
-
 
 ### Proper Orthogonal Decomposition (POD) Toolbox
 * Source code : <https://github.com/OpenPIV/openpiv-podbox>
@@ -48,5 +42,3 @@ Download the latest versions from the [Github repositories](http://github.com/op
 [openpiv-matlab]: http://www.openpiv.net/openpiv-matlab
 [openpiv-python]: http://openpiv.readthedocs.org/
 [openpiv-pressure]: http://www.openpiv.net/openpiv-pressure
-
-
