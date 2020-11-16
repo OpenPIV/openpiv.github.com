@@ -14,17 +14,20 @@ title: <img src="images/openpiv_arrow.png" class="img-responsive" alt="OpenPIV">
 
 **OpenPIV** is the successor of the popular URAPIV software, but it is faster, more user-friendly and much more flexible.
 
-**OpenPIV** exists in three languages and various versions: [Matlab](https://github.com/OpenPIV/openpiv-matlab), [Python](https://github.com/OpenPIV/openpiv-python),  [C++ with Qt-based GUI](https://github.com/OpenPIV/openpiv-c--qt), and [GPU accelerated version](https://github.com/OpenPIV/openpiv-python-gpu).
+**OpenPIV** exists in several languages and multipe versions, but the **main effort is devoted to the Python version of OpenPIV**: 
+[Python](https://github.com/OpenPIV/openpiv-python). It can be used through a Python shell, as a script, as a Jupyter notebook or through a [GUI] (https://github.com/OpenPIV/openpiv_tk_gui). There are also additional extensions for the use of Python version on the cloud infrastructure, on a cluster [GPU accelerated version](https://github.com/OpenPIV/openpiv-python-gpu), PIV as a service and others. See all the links on the Software Packages page. 
 
 
-**OpenPIV** is not only the PIV image analysis software. It is a fully integrated solution *from an experiment to a publication*. We provide an integrated **Matlab toolbox for Spatial and Temporal PIV data analysis** that provides time and spatial analysis, e.g. velocity profiles, spatial correlations, FFT, contours of vorticity, etc. Moreover, we provide the insightful **Proper Orthogonal Decomposition (POD) Toolbox** that gives you a deep insight into the most energetic coherent structures and meaningful patterns of the flow.
 
-Recent webinar on the Matlab version:
+----
 
-
+Matlab version of OpenPIV **will not be developed after January 1st, 2021**. We plan to translate the code to **Python**. This update refers to a large set of toolboxes: 
+1. PIV processing in Matlab with a simple GUI, openpiv-matlab
+2. Spatial and Temporal PIV data analysis toolbox provides time and spatial analysis, e.g. velocity profiles, spatial correlations, FFT, contours of vorticity
+3. Proper Orthogonal Decomposition (POD) toolbox
+4. Pressure from PIV toolbox
+5. getWake toolbox for the post-processing time-resolved bluff body wakes, see our recent webinar on the Matlab version:
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ci98mLhYEeg/1.jpg)](https://www.youtube.com/watch?v=ci98mLhYEeg)
-
-
 
 
 ### OpenPIV users worldwide distribution
