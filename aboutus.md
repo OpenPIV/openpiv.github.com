@@ -10,11 +10,11 @@ This is a community effort and every step is a great contribution of one of the 
 
 ## Governance team:
 
-[Alex Liberzon]
-[Roi Gurka]
-[Peter Vennemann]
-[Theo Käufer]
-[Hadar Ben Gida]
+- [Alex Liberzon]
+- [Roi Gurka]
+- [Peter Vennemann]
+- [Theo Käufer]
+- [Hadar Ben Gida]
 
 
 ### Contributiors by projects:
