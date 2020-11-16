@@ -14,7 +14,12 @@ title: <img src="images/openpiv_arrow.png" class="img-responsive" alt="OpenPIV">
 
 **OpenPIV** is the successor of the popular URAPIV software, but it is faster, more user-friendly and much more flexible.
 
-**OpenPIV** exists in several languages and multipe versions, but the **main effort is devoted to the Python version of OpenPIV**: 
+<div class="jumbotron">
+<p>
+**OpenPIV** exists in several languages and multipe versions, but the **main effort is devoted to the Python version of OpenPIV**
+</p>
+</div>
+	
 [Python](https://github.com/OpenPIV/openpiv-python). It can be used through a Python shell, as a script, as a Jupyter notebook or through a [GUI] (https://github.com/OpenPIV/openpiv_tk_gui). There are also additional extensions for the use of Python version on the cloud infrastructure, on a cluster [GPU accelerated version](https://github.com/OpenPIV/openpiv-python-gpu), PIV as a service and others. See all the links on the Software Packages page. 
 
 
