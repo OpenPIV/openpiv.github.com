@@ -28,12 +28,12 @@ If you are interested in the TK GUI, follow the instructions on https://github.c
 
 
 ### Getting started screencasts and tutorials
-1. Python - <http://www.openpiv.net/openpiv-python/>
-2. Documentation : https://openpiv.readthedocs.io/
-3. Tutorial: https://openpiv.readthedocs.io/en/latest/src/tutorial1.html
-4. Zero installation online demo: https://github.com/OpenPIV/openpiv-python-example
-5. Multiple notebooks of tests and extended options: https://github.com/OpenPIV/openpiv-python-examples/tree/main/notebooks
-4. Learn how to use and extend OpenPivGui https://video.fh-muenster.de/Panopto/Pages/Viewer.aspx?id=309dccc2-af58-44e0-8cd3-ab9500c5b7f4
+1. Python version: <http://www.openpiv.net/openpiv-python/>
+2. Documentation : <https://openpiv.readthedocs.io/>
+3. Tutorial: <https://openpiv.readthedocs.io/en/latest/src/tutorial1.html>
+4. Zero installation online demo: <https://github.com/OpenPIV/openpiv-python-example>
+5. Multiple notebooks of tests and extended options: <https://github.com/OpenPIV/openpiv-python-examples/tree/main/notebooks>
+4. Learn how to use and extend OpenPivGui <https://video.fh-muenster.de/Panopto/Pages/Viewer.aspx?id=309dccc2-af58-44e0-8cd3-ab9500c5b7f4>
 
 
 ### Support and documentation
