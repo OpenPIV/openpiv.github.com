@@ -22,7 +22,7 @@ https://github.com/alexlib/openpiv-python-example
 	
 or
 
-	conda install -c conda-forge openpiv
+	conda install -c alexlib openpiv
 	
 If you are interested in the TK GUI, follow the instructions on https://github.com/OpenPIV/openpiv_tk_gui
 
